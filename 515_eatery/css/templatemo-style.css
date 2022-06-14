@@ -472,9 +472,9 @@ http://www.templatemo.com/tm-515-eatery
     cursor: pointer;
   }
 
-  .team-info {
+  /* .team-info {
     padding: 10px 30px 20px 30px;
-  }
+  } */
 
   .team-thumb .team-hover {
     position: absolute;
