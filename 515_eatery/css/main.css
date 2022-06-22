@@ -29,6 +29,10 @@
   padding-bottom: 25px;
 }
 
+#departamentos img {
+  object-fit: contain;
+}
+
 .team-info {
   padding: 0;
 }
@@ -36,4 +40,8 @@
 address {
   display: flex;
   flex-direction: column;
+}
+
+.services img {
+  object-fit: contain;
 }
